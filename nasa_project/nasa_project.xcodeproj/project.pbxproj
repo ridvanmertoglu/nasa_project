@@ -17,6 +17,18 @@
 		35B1EAB72832B82500644797 /* nasa_projectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAB62832B82500644797 /* nasa_projectTests.swift */; };
 		35B1EAC12832B82500644797 /* nasa_projectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAC02832B82500644797 /* nasa_projectUITests.swift */; };
 		35B1EAC32832B82500644797 /* nasa_projectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAC22832B82500644797 /* nasa_projectUITestsLaunchTests.swift */; };
+		35B1EAD12832B96E00644797 /* URLRequestExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAD02832B96E00644797 /* URLRequestExtension.swift */; };
+		35B1EAD42832C4A900644797 /* PhotoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAD32832C4A900644797 /* PhotoViewModel.swift */; };
+		35B1EAD62832C58F00644797 /* BaseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAD52832C58F00644797 /* BaseViewModel.swift */; };
+		35B1EAD92832C69600644797 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAD82832C69600644797 /* NetworkManager.swift */; };
+		35B1EADC2832C70200644797 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EADB2832C70200644797 /* Photo.swift */; };
+		35B1EADE2832C96500644797 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EADD2832C96500644797 /* Camera.swift */; };
+		35B1EAE02832C98500644797 /* Rover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EADF2832C98500644797 /* Rover.swift */; };
+		35B1EAE22832CCA500644797 /* DecodableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1EAE12832CCA500644797 /* DecodableExtension.swift */; };
+		35FB12E728341CE800144871 /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FB12E528341CE800144871 /* PhotoCollectionViewCell.swift */; };
+		35FB12E828341CE800144871 /* PhotoCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35FB12E628341CE800144871 /* PhotoCollectionViewCell.xib */; };
+		35FB12EA28341DC100144871 /* UICollectionViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FB12E928341DC100144871 /* UICollectionViewExtension.swift */; };
+		35FB12EC28341DEB00144871 /* UICollectionViewCellExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FB12EB28341DEB00144871 /* UICollectionViewCellExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +63,18 @@
 		35B1EABC2832B82500644797 /* nasa_projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nasa_projectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		35B1EAC02832B82500644797 /* nasa_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nasa_projectUITests.swift; sourceTree = "<group>"; };
 		35B1EAC22832B82500644797 /* nasa_projectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nasa_projectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		35B1EAD02832B96E00644797 /* URLRequestExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLRequestExtension.swift; sourceTree = "<group>"; };
+		35B1EAD32832C4A900644797 /* PhotoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewModel.swift; sourceTree = "<group>"; };
+		35B1EAD52832C58F00644797 /* BaseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewModel.swift; sourceTree = "<group>"; };
+		35B1EAD82832C69600644797 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		35B1EADB2832C70200644797 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		35B1EADD2832C96500644797 /* Camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
+		35B1EADF2832C98500644797 /* Rover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rover.swift; sourceTree = "<group>"; };
+		35B1EAE12832CCA500644797 /* DecodableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodableExtension.swift; sourceTree = "<group>"; };
+		35FB12E528341CE800144871 /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
+		35FB12E628341CE800144871 /* PhotoCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PhotoCollectionViewCell.xib; sourceTree = "<group>"; };
+		35FB12E928341DC100144871 /* UICollectionViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICollectionViewExtension.swift; sourceTree = "<group>"; };
+		35FB12EB28341DEB00144871 /* UICollectionViewCellExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICollectionViewCellExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +125,11 @@
 		35B1EA9B2832B81D00644797 /* nasa_project */ = {
 			isa = PBXGroup;
 			children = (
+				35FB12E428341CBC00144871 /* Cells */,
+				35B1EADA2832C6E700644797 /* Models */,
+				35B1EAD72832C5CC00644797 /* Managers */,
+				35B1EAD22832C48B00644797 /* ViewModels */,
+				35B1EACF2832B93800644797 /* Extensions */,
 				35B1EA9C2832B81D00644797 /* AppDelegate.swift */,
 				35B1EA9E2832B81D00644797 /* SceneDelegate.swift */,
 				35B1EAA02832B81D00644797 /* ViewController.swift */,
@@ -128,6 +157,53 @@
 				35B1EAC22832B82500644797 /* nasa_projectUITestsLaunchTests.swift */,
 			);
 			path = nasa_projectUITests;
+			sourceTree = "<group>";
+		};
+		35B1EACF2832B93800644797 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				35B1EAD02832B96E00644797 /* URLRequestExtension.swift */,
+				35B1EAE12832CCA500644797 /* DecodableExtension.swift */,
+				35FB12E928341DC100144871 /* UICollectionViewExtension.swift */,
+				35FB12EB28341DEB00144871 /* UICollectionViewCellExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		35B1EAD22832C48B00644797 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				35B1EAD32832C4A900644797 /* PhotoViewModel.swift */,
+				35B1EAD52832C58F00644797 /* BaseViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		35B1EAD72832C5CC00644797 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				35B1EAD82832C69600644797 /* NetworkManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		35B1EADA2832C6E700644797 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				35B1EADB2832C70200644797 /* Photo.swift */,
+				35B1EADD2832C96500644797 /* Camera.swift */,
+				35B1EADF2832C98500644797 /* Rover.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		35FB12E428341CBC00144871 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				35FB12E528341CE800144871 /* PhotoCollectionViewCell.swift */,
+				35FB12E628341CE800144871 /* PhotoCollectionViewCell.xib */,
+			);
+			path = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +311,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35B1EAAC2832B82400644797 /* LaunchScreen.storyboard in Resources */,
+				35FB12E828341CE800144871 /* PhotoCollectionViewCell.xib in Resources */,
 				35B1EAA92832B82400644797 /* Assets.xcassets in Resources */,
 				35B1EAA42832B81D00644797 /* Main.storyboard in Resources */,
 			);
@@ -261,10 +338,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35B1EADC2832C70200644797 /* Photo.swift in Sources */,
+				35FB12E728341CE800144871 /* PhotoCollectionViewCell.swift in Sources */,
+				35FB12EA28341DC100144871 /* UICollectionViewExtension.swift in Sources */,
 				35B1EAA12832B81D00644797 /* ViewController.swift in Sources */,
+				35B1EAD12832B96E00644797 /* URLRequestExtension.swift in Sources */,
+				35B1EAE02832C98500644797 /* Rover.swift in Sources */,
 				35B1EA9D2832B81D00644797 /* AppDelegate.swift in Sources */,
+				35B1EAD62832C58F00644797 /* BaseViewModel.swift in Sources */,
+				35B1EAD92832C69600644797 /* NetworkManager.swift in Sources */,
+				35B1EAE22832CCA500644797 /* DecodableExtension.swift in Sources */,
+				35B1EADE2832C96500644797 /* Camera.swift in Sources */,
+				35FB12EC28341DEB00144871 /* UICollectionViewCellExtension.swift in Sources */,
 				35B1EAA72832B81D00644797 /* nasa_project.xcdatamodeld in Sources */,
 				35B1EA9F2832B81D00644797 /* SceneDelegate.swift in Sources */,
+				35B1EAD42832C4A900644797 /* PhotoViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
